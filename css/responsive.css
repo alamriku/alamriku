@@ -1,0 +1,207 @@
+@media only screen and (max-width: 441px)  {
+  #top-bar
+    {
+        display:none ;
+       
+    }
+}
+
+@media only screen and (max-width: 441px) and {
+     .header-left, .header-right,.gallery-left-para,.gallery-inner-top-para
+    {
+        padding: 0 !important;
+        margin-left:0 !important;
+    }
+}
+/*Header-Top-logo-company-Responsive-End*/
+@media only screen and (max-width:531px){
+     .header-qt-respon,.over-lay,.jac h4,.rik p
+    {
+        font-size: 1.3em !important;
+      
+    }
+}
+
+@media only screen and (max-width:441px){
+    .over-lay,.bgimg{
+         
+         height: 400px!important;
+    }
+}
+
+/*header-qt-res-End*/
+
+@media only screen and (max-width:441px){
+    .tour1,.tour2,.tour3,.travel-logo-1,.travel-logo-2,.travel-logo-3
+    {
+          width: 11% !important;;
+          height: 30% !important;;
+         padding-top: 8px !important;
+         font-size: 20px!important;
+    }
+}
+/*End-of-tour-res*/
+
+@media only screen and (max-width:441px){
+    .admin:nth-child(1){
+         margin-left:0!important; 
+    }
+}
+
+@media only screen and (max-width:441px){
+    .admin-card-1, .admin-card-2, .admin-card-3 {
+         width: inherit !important;
+    }
+}
+
+@media only screen and (max-width:320px){
+    .social-icon li a, 
+    .gallery-left-para,.gallery-inner-top-para
+    {
+         margin-right:0!important;
+          padding:0 !important;
+    
+}
+}
+
+@media only screen and (max-width:1199px){
+	.tour1, .tour2, .tour3, .travel-logo-1, .travel-logo-2, .travel-logo-3{
+		height:28%!important;
+	}
+}
+
+@media only screen and (max-width:990px){
+    #top-bar,.card {
+         display: none;
+    }
+}
+     @media only screen and (max-width:990px) {
+        .header-left,.header-right
+        {
+            margin-left: 2px!important;
+        }
+    
+    }
+
+@media only screen and (max-width:990px){
+    .tour1, .tour2, .tour3, .travel-logo-1, .travel-logo-2, .travel-logo-3
+    {
+           width: 8%!important;
+    padding-top: 1.2%!important;
+    font-size: 1.3em!important;
+    height: 31%!important;
+    }
+}
+
+@media only screen and (max-width:990px){
+    .admin-card-1, .admin-card-2, .admin-card-3{
+        width: inherit!important;
+        margin-top: 3%!important;
+        margin-left: 0!important;
+    }
+}
+
+
+@media only srceen and (max-width:1920px){
+    .popup
+    {
+          height: 393px!important;
+    }
+}
+
+@media only screen and (max-width:280px){
+   .footer-title,.gallery-ex-box,.faicon-vk,.tour1, .tour2, .tour3, .travel-logo-1, .travel-logo-2, .travel-logo-3{
+        display: none!important;
+    }
+}
+
+@media only screen and (max-width:280px){
+    .social-icon li a{
+        height: 30px!important;
+    }
+}
+
+@media only screen and (max-width:280px){
+    .gallery-box{
+       padding-left: 0!important;
+        
+    }
+}
+
+/*Header-start for 380px width*/
+
+    @media only screen and (max-width:380px){
+       .rik,.admin-date-1, .admin-date-2, .admin-date-3,.space{
+           display:none!important;
+       }
+       .info-area {
+           padding:1em!important;
+           font-size:1.1em!important;
+       }
+       .info-title,.info-left-title{
+           font-size:1.5em!important;
+           line-height:1em!important;
+       }
+       .info-container,.guide-name1,.guide-title1,.guide-name2, .guide-name3,.guide-title2, .guide-title3,.v-details1,.v-details2,.v-details3,.travel-distination-1, .travel-distination-2, .travel-distination-3
+      ,.travel-discription-1, .travel-discription-2, .travel-discription-3,.T-details-1, .T-details-2, .T-details-3,.admin-title
+	  {
+           padding:0!important;
+           font-size:1em!important;
+		   font-family:sans-serif!important;
+       }
+	   .guid-cat-1, .guid-cat-2{
+	      padding-left:0!important;
+		  padding-right:0!important;
+		  padding-top:2%!important;
+	   }
+	   .admin-card-box {
+	     margin:0!important;
+	   }
+	   .admin-card-wrapper{
+	     margin-top:20px!important;
+	   }
+	   .admin-img {
+	     width:100px!important;
+		 height:100px!important;
+	   }
+	   .admin-card-info-1, .admin-card-info-2, .admin-card-info-3{
+	     
+		  padding-right:0!important;
+		   padding-left:0!important;
+		}
+		.admin-name {
+		 font-size:0.8em!important;
+		 }
+		 .admin-description {
+		  padding-top:10px!important;
+		 }
+		 .margin-res{
+		  margin-top:5px;
+		 }
+        
+        .form-responsive{
+		 	padding:0!important;
+		 	font-size: 1.09em!important;
+    font-family: serif !important;
+    letter-spacing: .04em!important;
+		 }
+   }
+/*End-of-300px*/
+@media only screen and (max-width:495px){
+    .gallery-ex-box,.tour1, .tour2, .tour3, .travel-logo-1, .travel-logo-2, .travel-logo-3{
+        display: none!important;
+    }
+    
+    .gallery-left-para{
+   		padding-right:0!important;
+   	}
+    .gallery-box{
+        padding-left: 0!important;
+    }
+    .gallery-inner-top-h{
+        font-size: 1.1em!important;
+    }
+    .gallery-info-title{
+            font-size: 1.5em;
+    }
+   }
