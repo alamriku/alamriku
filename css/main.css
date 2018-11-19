@@ -354,7 +354,7 @@ hvr-box-shadow-inset {
     
 }
 .btn-over-lay span:hover:before{
-     animation: animate 2.5s linear forwards;
+     animation: animate .7s linear forwards;
 }
 
 @keyframes animate {
@@ -401,7 +401,7 @@ hvr-box-shadow-inset {
     
 }
 .btn-over-lay span:hover:after{
-     animation: animate2 2.5s linear forwards;
+     animation: animate2 .7s linear forwards;
 }
 
 @keyframes animate2 {
